@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "MyVet.Domain": {
+      "commandName": "Project"
+    },
+    "Perfil 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\DiegoPardo\\source\\MyVet\\MyVet\\Program.cs"
+    }
+  }
+}
