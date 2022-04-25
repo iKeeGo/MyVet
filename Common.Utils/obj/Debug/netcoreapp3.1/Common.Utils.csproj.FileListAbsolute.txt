@@ -1,0 +1,10 @@
+C:\Users\DiegoPardo\source\repos\MyVet\Common.Utils\bin\Debug\netcoreapp3.1\Common.Utils.deps.json
+C:\Users\DiegoPardo\source\repos\MyVet\Common.Utils\bin\Debug\netcoreapp3.1\Common.Utils.dll
+C:\Users\DiegoPardo\source\repos\MyVet\Common.Utils\bin\Debug\netcoreapp3.1\Common.Utils.pdb
+C:\Users\DiegoPardo\source\repos\MyVet\Common.Utils\obj\Debug\netcoreapp3.1\Common.Utils.csproj.AssemblyReference.cache
+C:\Users\DiegoPardo\source\repos\MyVet\Common.Utils\obj\Debug\netcoreapp3.1\Common.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiegoPardo\source\repos\MyVet\Common.Utils\obj\Debug\netcoreapp3.1\Common.Utils.AssemblyInfoInputs.cache
+C:\Users\DiegoPardo\source\repos\MyVet\Common.Utils\obj\Debug\netcoreapp3.1\Common.Utils.AssemblyInfo.cs
+C:\Users\DiegoPardo\source\repos\MyVet\Common.Utils\obj\Debug\netcoreapp3.1\Common.Utils.csproj.CoreCompileInputs.cache
+C:\Users\DiegoPardo\source\repos\MyVet\Common.Utils\obj\Debug\netcoreapp3.1\Common.Utils.dll
+C:\Users\DiegoPardo\source\repos\MyVet\Common.Utils\obj\Debug\netcoreapp3.1\Common.Utils.pdb

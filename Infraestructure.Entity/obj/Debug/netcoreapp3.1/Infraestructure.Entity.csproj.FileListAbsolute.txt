@@ -1,0 +1,10 @@
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Entity\bin\Debug\netcoreapp3.1\Infraestructure.Entity.deps.json
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Entity\bin\Debug\netcoreapp3.1\Infraestructure.Entity.dll
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Entity\bin\Debug\netcoreapp3.1\Infraestructure.Entity.pdb
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Entity\obj\Debug\netcoreapp3.1\Infraestructure.Entity.csproj.AssemblyReference.cache
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Entity\obj\Debug\netcoreapp3.1\Infraestructure.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Entity\obj\Debug\netcoreapp3.1\Infraestructure.Entity.AssemblyInfoInputs.cache
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Entity\obj\Debug\netcoreapp3.1\Infraestructure.Entity.AssemblyInfo.cs
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Entity\obj\Debug\netcoreapp3.1\Infraestructure.Entity.csproj.CoreCompileInputs.cache
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Entity\obj\Debug\netcoreapp3.1\Infraestructure.Entity.dll
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Entity\obj\Debug\netcoreapp3.1\Infraestructure.Entity.pdb
