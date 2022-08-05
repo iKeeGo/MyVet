@@ -1,0 +1,15 @@
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Core\bin\Debug\netcoreapp3.1\Infraestructure.Core.deps.json
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Core\bin\Debug\netcoreapp3.1\Infraestructure.Core.dll
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Core\bin\Debug\netcoreapp3.1\Infraestructure.Core.pdb
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Core\bin\Debug\netcoreapp3.1\Infraestructure.Entity.dll
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Core\bin\Debug\netcoreapp3.1\Infraestructure.Entity.pdb
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Core\obj\Debug\netcoreapp3.1\Infraestructure.Core.csproj.AssemblyReference.cache
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Core\obj\Debug\netcoreapp3.1\Infraestructure.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Core\obj\Debug\netcoreapp3.1\Infraestructure.Core.AssemblyInfoInputs.cache
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Core\obj\Debug\netcoreapp3.1\Infraestructure.Core.AssemblyInfo.cs
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Core\obj\Debug\netcoreapp3.1\Infraestructure.Core.csproj.CoreCompileInputs.cache
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Core\obj\Debug\netcoreapp3.1\Infraestructure.Core.csproj.CopyComplete
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Core\obj\Debug\netcoreapp3.1\Infraestructure.Core.dll
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Core\obj\Debug\netcoreapp3.1\Infraestructure.Core.pdb
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Core\bin\Debug\netcoreapp3.1\Common.Utils.dll
+C:\Users\DiegoPardo\source\repos\MyVet\Infraestructure.Core\bin\Debug\netcoreapp3.1\Common.Utils.pdb

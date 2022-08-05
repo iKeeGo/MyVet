@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "441b7000-f625-48c4-9072-573914525489": {
+      "ProjectGuid": "441b7000-f625-48c4-9072-573914525489",
+      "DisplayName": "MyVet",
+      "ColorIndex": 0
+    },
+    "90c45f63-378e-4e34-9a7d-f89b558248e4": {
+      "ProjectGuid": "90c45f63-378e-4e34-9a7d-f89b558248e4",
+      "DisplayName": "MyVet.Domain",
+      "ColorIndex": 1
+    },
+    "3681ad53-b642-4b01-9c2b-bd7b8f0c594f": {
+      "ProjectGuid": "3681ad53-b642-4b01-9c2b-bd7b8f0c594f",
+      "DisplayName": "Infraestructure.Core",
+      "ColorIndex": 2
+    },
+    "51a98a71-d300-4689-83b3-9001679f55c8": {
+      "ProjectGuid": "51a98a71-d300-4689-83b3-9001679f55c8",
+      "DisplayName": "Infraestructure.Entity",
+      "ColorIndex": 3
+    },
+    "30539358-bc28-4020-a815-5796f6735a80": {
+      "ProjectGuid": "30539358-bc28-4020-a815-5796f6735a80",
+      "DisplayName": "Common.Utils",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

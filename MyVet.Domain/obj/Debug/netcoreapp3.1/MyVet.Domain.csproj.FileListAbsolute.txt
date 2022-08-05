@@ -1,0 +1,17 @@
+C:\Users\DiegoPardo\source\repos\MyVet\MyVet.Domain\bin\Debug\netcoreapp3.1\MyVet.Domain.deps.json
+C:\Users\DiegoPardo\source\repos\MyVet\MyVet.Domain\bin\Debug\netcoreapp3.1\MyVet.Domain.dll
+C:\Users\DiegoPardo\source\repos\MyVet\MyVet.Domain\bin\Debug\netcoreapp3.1\MyVet.Domain.pdb
+C:\Users\DiegoPardo\source\repos\MyVet\MyVet.Domain\bin\Debug\netcoreapp3.1\Infraestructure.Core.dll
+C:\Users\DiegoPardo\source\repos\MyVet\MyVet.Domain\bin\Debug\netcoreapp3.1\Infraestructure.Entity.dll
+C:\Users\DiegoPardo\source\repos\MyVet\MyVet.Domain\bin\Debug\netcoreapp3.1\Infraestructure.Core.pdb
+C:\Users\DiegoPardo\source\repos\MyVet\MyVet.Domain\bin\Debug\netcoreapp3.1\Infraestructure.Entity.pdb
+C:\Users\DiegoPardo\source\repos\MyVet\MyVet.Domain\obj\Debug\netcoreapp3.1\MyVet.Domain.csproj.AssemblyReference.cache
+C:\Users\DiegoPardo\source\repos\MyVet\MyVet.Domain\obj\Debug\netcoreapp3.1\MyVet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiegoPardo\source\repos\MyVet\MyVet.Domain\obj\Debug\netcoreapp3.1\MyVet.Domain.AssemblyInfoInputs.cache
+C:\Users\DiegoPardo\source\repos\MyVet\MyVet.Domain\obj\Debug\netcoreapp3.1\MyVet.Domain.AssemblyInfo.cs
+C:\Users\DiegoPardo\source\repos\MyVet\MyVet.Domain\obj\Debug\netcoreapp3.1\MyVet.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DiegoPardo\source\repos\MyVet\MyVet.Domain\obj\Debug\netcoreapp3.1\MyVet.Domain.csproj.CopyComplete
+C:\Users\DiegoPardo\source\repos\MyVet\MyVet.Domain\obj\Debug\netcoreapp3.1\MyVet.Domain.dll
+C:\Users\DiegoPardo\source\repos\MyVet\MyVet.Domain\obj\Debug\netcoreapp3.1\MyVet.Domain.pdb
+C:\Users\DiegoPardo\source\repos\MyVet\MyVet.Domain\bin\Debug\netcoreapp3.1\Common.Utils.dll
+C:\Users\DiegoPardo\source\repos\MyVet\MyVet.Domain\bin\Debug\netcoreapp3.1\Common.Utils.pdb
